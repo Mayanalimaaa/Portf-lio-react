@@ -2,7 +2,7 @@
 
 Olá! Seja bem-vindo(a) ao meu portfólio! 👩🏻‍💻
 
-Sou estudante de **Sistemas para Internet** e **Técnico em Desenvolvimento de Sistemas**, apaixonada por tecnologia, desenvolvimento web e criação de interfaces.
+Sou estudante de **Sistemas para Internet** e **Técnica em Desenvolvimento de Sistemas**, apaixonada por tecnologia, desenvolvimento web e criação de interfaces.
 
 Estou em constante aprendizado, desenvolvendo projetos e aprimorando minhas habilidades para conquistar minha primeira oportunidade na área de tecnologia.
 
